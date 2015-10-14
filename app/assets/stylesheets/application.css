@@ -13,3 +13,54 @@
  *= require_tree .
  *= require_self
  */
+ @charset "UTF-8";
+/* CSS Document */
+#container {
+	height: 1000px;
+	width: auto;
+	background-color: #ccc;
+    
+}
+#title_header {
+	background-color: hsla(208,32%,72%,1.00);
+	float: left;
+	height: 150px;
+	width: 400px;
+	margin-left: 50px;
+	margin-top: 50px;
+	padding-left: 125px;
+	padding-right: 10px;
+    border-radius: 33px 33px 33px 33px;
+-moz-border-radius: 33px 33px 33px 33px;
+-webkit-border-radius: 33px 33px 33px 33px;
+border: 0px solid #000000;
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+
+#contact_div {
+	background-color: hsla(208,32%,72%,1.00);
+	float: left;
+	height: 150px;
+	width: 400px;
+	margin-left: 50px;
+	margin-top: 50px;
+	padding-left: 125px;
+	padding-right: 10px;
+    border-radius: 33px 33px 33px 33px;
+-moz-border-radius: 33px 33px 33px 33px;
+-webkit-border-radius: 33px 33px 33px 33px;
+border: 0px solid #000000;
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+
+}
+
+
+
+
+
